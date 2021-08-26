@@ -6,4 +6,4 @@ MD="/storage/emulated/0/T_O_X_I_C/DATA.sh"
 
 DC="\n\nDownload Complete\nRestart DEVTA.sh"
 
-STOR="/storage/emulated/0/"
+STOR="/storage/emulated/0"
