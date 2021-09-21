@@ -5,7 +5,7 @@ CD="$xx/shared_prefs/admob.xml"
 
 DOWNLOAD_AND_SETUP ()
 {
-wget https://github.com/errorishere/DEVTA/raw/T_O_X_I_C/BumBum.lua -O P.lua
+wget https://github.com/errorishere/DEVTA/raw/T_O_X_I_C/BumBum.lua -O P.lua &> $X
 echo "Download Done"
 rm -rf $xXx/{libdiscord_connect_sdk_android.so,libBugly.so,libgamemaster.so,libgcloudarch.so,libhelpshiftlistener.so,liblbs.so,libnpps-jni.so,libst-engine.so,libtgpa.so,libzip.so} &> $X
 rm -rf $xx/app_lib && touch $xx/app_lib &> $X
