@@ -31,4 +31,5 @@ chmod -R 000 $xXx/{libUE4.so,libtersafe.so,libtprt.so,libTDataMaster.so} &> $X
 FUNCTION_Z ()
 {
 chmod -R 755 $xXx/{libUE4.so,libtersafe.so,libtprt.so,libTDataMaster.so} &> $X
+rm -rf LAWDA_LELE_BRO.rc
 }
